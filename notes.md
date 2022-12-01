@@ -35,3 +35,14 @@ for finding hidden web pages
  * ![image](https://user-images.githubusercontent.com/53008918/205152804-a8fbff5e-9cb4-4826-a8dd-3203f8623ad7.png)
  * easy and cost effective
  * single point of failure  
+* Ring topology 
+ * ![image](https://user-images.githubusercontent.com/53008918/205153423-e9bfec78-3dd9-4d21-8e85-80310a4c6286.png)
+ * easy t debug but slow because passes devices
+
+#### What is a switch
+
+![image](https://user-images.githubusercontent.com/53008918/205153840-55fa9319-f22c-4dde-9184-2f411a445f11.png)
+
+* 
+
+  
